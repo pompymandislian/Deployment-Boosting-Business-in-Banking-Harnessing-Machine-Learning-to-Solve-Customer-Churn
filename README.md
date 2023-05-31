@@ -21,7 +21,9 @@ How to solve the problem churn in the bank?
 </li><li> Create an interface that can be used by the user.
 </li><li> Reduce customer churn thereby increasing the company's income.
 
+<h2> <b> ARCHITECTURE <b> </h2>
 
+</li><li> Main Workflow 
 
   
 
