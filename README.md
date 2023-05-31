@@ -47,3 +47,13 @@ How to solve the problem churn in the bank?
 <img align="center" src="Image/pytesta.png" width="500" height="200" />
 </p>
 
+</li><li> Streamlit Workflow 
+<p>
+<img align="center" src="Image/streamlit.png" width="500" height="200" />
+</p>
+  
+</li><li> FastApi Workflow 
+<p>
+<img align="center" src="Image/fastapi.png" width="500" height="200" />
+</p>
+  
