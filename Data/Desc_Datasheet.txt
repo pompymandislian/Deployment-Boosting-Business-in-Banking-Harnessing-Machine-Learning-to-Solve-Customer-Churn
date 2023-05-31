@@ -1,0 +1,13 @@
+Data input:
+Age : Age of Umur Customer.
+credit_score : Score how well a person pays debts
+Country : Place of customer country.
+Gender : Male or Female.
+Tenure : level of security or stability in work.
+Balance : Income each months from customers.
+Credit_card : Have a creadit or not.
+Active_member : Have a active member in bank or not.
+Estimated_Salary : Estimation income from customers.
+
+Output/Target :
+Churn : Customers who are make churn
