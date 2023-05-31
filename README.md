@@ -42,5 +42,8 @@ How to solve the problem churn in the bank?
 <img align="center" src="Image/Model.png" width="500" height="250" />
 </p>
 
-
+ </li><li> Pytest Workflow 
+<p>
+<img align="center" src="Image/pytesta.png" width="500" height="250" />
+</p>
 
