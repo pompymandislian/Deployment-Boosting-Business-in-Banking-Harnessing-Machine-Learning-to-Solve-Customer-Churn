@@ -36,6 +36,11 @@ How to solve the problem churn in the bank?
 <p>
 <img align="center" src="Image/FE.png" width="500" height="80" />
 </p>
+  
+ </li><li> Model Workflow 
+<p>
+<img align="center" src="Image/Model.png" width="500" height="200" />
+</p>
 
 
 
