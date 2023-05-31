@@ -1,1 +1,10 @@
+# This data and model used FastAPI (Backend)
 
+X_train_fix : 
+- The Data after selection feature with permutation selection, This data choosing with scaling standaradization and SMOTE Balancing methods
+- The columns of data is : ['gender_Male', 'country_France', 'Age_young', 'gender_Female',
+       'country_Spain', 'country_Germany', 'Age_mature', 'active_member','tenure', 'balance','credit_score']
+       
+y_train_fit : The data using SMOTE balancing 
+
+model_svm : The model using >> SVC(C = 90, gamma='auto')
