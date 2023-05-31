@@ -75,4 +75,9 @@ How to solve the problem churn in the bank?
 <li> Stop Image and container streamlit and FastAPI in the docker </li>
 <li> Compose file docker compose >> docker compose up </li>
 <li> Run docker compose in new images (fill streamlit and fastapi) </li>
-<li> Input data in the streamlit </li>          
+<li> Input data in the streamlit </li>      
+          
+
+<h3> Conclution and Next Improvement </h3>  
+<li> Next Project can improvement to server, so that access in public </li>
+<li> Can improvement about feauture frontend like add identity user and send data inputan to database </li>          
