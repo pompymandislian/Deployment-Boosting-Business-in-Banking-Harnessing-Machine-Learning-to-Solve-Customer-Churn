@@ -17,6 +17,11 @@ How to solve the problem churn in the bank?
 </li><li> Which is columns that most affects?
   
 <h4> <b> PROBLEM OUR GOALS <b> </h4>    
+</li><li> Make a model that is effective and can be used for predictions.
+</li><li> Create an interface that can be used by the user.
+</li><li> Reduce customer churn thereby increasing the company's income.
+
+
 
   
 
