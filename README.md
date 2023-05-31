@@ -24,7 +24,7 @@ How to solve the problem churn in the bank?
 
 </li><li> Main Workflow 
   <p>
-<img align="center" src="Image/main.png" width="500" height="100" />
+<img align="center" src="Image/main.png" width="500" height="150" />
   </p>
 
 
