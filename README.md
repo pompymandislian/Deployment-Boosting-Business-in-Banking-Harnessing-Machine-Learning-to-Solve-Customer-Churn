@@ -44,6 +44,6 @@ How to solve the problem churn in the bank?
 
  </li><li> Pytest Workflow 
 <p>
-<img align="center" src="Image/pytesta.png" width="500" height="250" />
+<img align="center" src="Image/pytesta.png" width="500" height="200" />
 </p>
 
