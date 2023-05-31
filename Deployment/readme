@@ -1,1 +1,7 @@
+run fastApi:
+- uvicorn fastapi:app --reload
 
+run streamlit ;
+- streamlit run streamlit.py 
+
+run this code in the terminal vs code
