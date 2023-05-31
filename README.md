@@ -15,5 +15,10 @@ How to solve the problem churn in the bank?
 </li><li> Which model is the best choice?
 </li><li> How many metrics results are   obtained to solve the churn case?
 </li><li> Which is columns that most affects?
+  
+<h4> <b> PROBLEM OUR GOALS <b> </h4>    
+
+  
+
 
 
