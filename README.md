@@ -13,7 +13,6 @@ How to solve the problem churn in the bank?
 <h4> <b> Sub Problem <b> </h4>  
 </li><li> What is obtained after conducting the analysis?
 </li><li> Which model is the best choice?
-</li><li> How many metrics results are   obtained to solve the churn case?
 </li><li> Which is columns that most affects?
   
 <h4> <b> PROBLEM OUR GOALS <b> </h4>    
