@@ -68,3 +68,11 @@ How to solve the problem churn in the bank?
      <h4> <b> The answer is Model Svm because Data train and cross validation is good fit compared to other models <b> </h4>  
 </li><li> Which is columns that most affects?       
         <h4> <b> The answer is columns gender_Male, country_France, and Age_young because after selection features with permutation method, the columns be in the position top 3 <h4> <b>
+
+<h3> How to Run Model in Localhost </h3>
+<li> Import/built file Streamlit and FastAPI to Docker Image >> docker built -t (name image) . </li> 
+<li> Run Container Streamlit and FastAPI >> docker run -p (name images in docker) </li>
+<li> Stop Image and container streamlit and FastAPI in the docker </li>
+<li> Compose file docker compose >> docker compose up </li>
+<li> Run docker compose in new images (fill streamlit and fastapi) </li>
+<li> Input data in the streamlit </li>          
