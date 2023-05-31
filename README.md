@@ -69,7 +69,7 @@ How to solve the problem churn in the bank?
 </li><li> Which is columns that most affects?       
         <h4> <b> The answer is columns gender_Male, country_France, and Age_young because after selection features with permutation method, the columns be in the position top 3 <h4> <b>
 
-<h3> How to Run Model in Localhost </h3>
+<h3> How to Run Model in Localhost - Docker </h3>
 <li> Import/built file Streamlit and FastAPI to Docker Image >> docker built -t (name image) . </li> 
 <li> Run Container Streamlit and FastAPI >> docker run -p (name images in docker) </li>
 <li> Stop Image and container streamlit and FastAPI in the docker </li>
