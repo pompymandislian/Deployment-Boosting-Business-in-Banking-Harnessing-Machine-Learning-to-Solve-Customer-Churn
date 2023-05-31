@@ -80,4 +80,12 @@ How to solve the problem churn in the bank?
 
 <h3> Conclution and Next Improvement </h3>  
 <li> Next Project can improvement to server, so that access in public </li>
-<li> Can improvement about feauture frontend like add identity user and send data inputan to database </li>          
+<li> Can improvement about feauture frontend like add identity user and send data inputan to database </li>
+          
+<h3> Referensi </h3>
+       <li> Pacmann Class </li>
+          <li> Book : Approaching (Almost) Any Machine Learning Problem </li>
+          <li> Book : Introduction to Statistical Learning 2nd Edition </li>
+          <li> Youtube </li>
+           <li> Other Paper </li> 
+
