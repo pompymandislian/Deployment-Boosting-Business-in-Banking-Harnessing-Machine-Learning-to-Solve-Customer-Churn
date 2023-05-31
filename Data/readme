@@ -1,1 +1,3 @@
 This file contains original data and many engineering features
+- Data split : data after spliting 80:20
+- Data feature engineering : scaling and balancing
