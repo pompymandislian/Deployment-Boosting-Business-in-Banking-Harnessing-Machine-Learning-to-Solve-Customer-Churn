@@ -23,9 +23,19 @@ How to solve the problem churn in the bank?
 <h2> <b> ARCHITECTURE <b> </h2>
 
 </li><li> Main Workflow 
-  <p>
+ <p>
 <img align="center" src="Image/main.png" width="500" height="150" />
-  </p>
+</p>
+  
+</li><li> Preaperation Workflow 
+<p>
+<img align="center" src="Image/preaperation.png" width="500" height="150" />
+</p>
+  
+</li><li> Preprocessing/Feature Engineering Workflow 
+<p>
+<img align="center" src="Image/FE.png" width="500" height="150" />
+</p>
 
 
 
