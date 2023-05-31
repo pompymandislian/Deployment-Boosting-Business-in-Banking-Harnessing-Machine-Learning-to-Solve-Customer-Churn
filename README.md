@@ -39,7 +39,7 @@ How to solve the problem churn in the bank?
   
  </li><li> Model Workflow 
 <p>
-<img align="center" src="Image/Model.png" width="500" height="200" />
+<img align="center" src="Image/Model.png" width="500" height="250" />
 </p>
 
 
