@@ -1,1 +1,10 @@
+Explanation Modul :
+
+Baseline : Contains about model baseline 
+SeparateOutputInput : Split data input and output
+encodermodule : Change data category to numeric with encoden and OHE methods
+feature_data : The modul using for preprocessing data with scaling, transformation, and PCA Methods
+permutation : The modul using for selection features 
+plot_outlier : The modul for show chek data outlier with KDE visualization
+Basic_model : The modul using for modeling without add parameter and hyperparameter
 
