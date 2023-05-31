@@ -1,0 +1,32 @@
+dataset_dir : D:/BOOTCAMP/project/Project Pribadi/ml churn/data ori/ #choose folder data
+float_columns :
+- balance  
+- estimated_salary
+
+int_columns :
+- credit_score  
+- tenure 
+- credit_card
+- active_member
+- churn
+
+object_columns :
+- country
+- gender
+- Age
+
+range_balance :
+- 3768.69
+- 250898.09
+
+range_estimated_salary :
+- 11.58
+- 199970.74
+
+range_credit_score :
+- 350
+- 850
+
+range_tenure :
+- 0
+- 10
