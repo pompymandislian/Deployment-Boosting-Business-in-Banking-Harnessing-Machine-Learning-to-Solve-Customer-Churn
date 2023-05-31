@@ -34,7 +34,7 @@ How to solve the problem churn in the bank?
   
 </li><li> Preprocessing/Feature Engineering Workflow 
 <p>
-<img align="center" src="Image/FE.png" width="500" height="100" />
+<img align="center" src="Image/FE.png" width="500" height="80" />
 </p>
 
 
