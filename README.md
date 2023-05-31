@@ -65,6 +65,6 @@ How to solve the problem churn in the bank?
     In addition to these findings, the data visualization reveals that Germany is the country with the highest number of churned and non-churned customers. Similarly, males are the most dominant gender among churned and non-churned customers. Furthermore, the age group that significantly contributes to the churned and non-churned customer count is the mature age group. Additionally, the majority of churned and non-churned customers do not possess a credit card and are not active members.
     The correlation analysis indicates that the relationship between numeric and categorical variables is very weak, while the Pearson Chi-square test suggests a high correlation between the "Age" and "Country" columns. On the other hand, the correlation analysis between numeric variables reveals a very weak correlation, indicating the absence of significant linear relationships between those variables. <b> </h4>  
 </li><li> Which model is the best choice?
-     <h4> <b> The answer is Model Svm because Data train and cross validation is good fit compared to other models
+     <h4> <b> The answer is Model Svm because Data train and cross validation is good fit compared to other models <b> </h4>  
 </li><li> Which is columns that most affects?       
-       
+        <h4> <b> The answer is columns gender_Male, country_France, and Age_young because after selection features with permutation method, the columns be in the position top 3 <h4> <b>
