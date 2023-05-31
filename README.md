@@ -19,6 +19,8 @@ How to solve the problem churn in the bank?
 </li><li> Make a model that is effective and can be used for predictions.
 </li><li> Create an interface that can be used by the user.
 </li><li> Reduce customer churn thereby increasing the company's income.
+  
+  
 
 <h2> <b> ARCHITECTURE <b> </h2>
 
@@ -56,4 +58,12 @@ How to solve the problem churn in the bank?
 <p>
 <img align="center" src="Image/fastapi.png" width="400" height="80" />
 </p>
+  
+<h4> <b> Answer Sub Problem <b> </h4>  
+</li><li> What is obtained after conducting the analysis?
+    Based on the analysis conducted on the data, several interesting findings were discovered. Firstly, churned customers have a higher average balance compared to non-churned customers. Additionally, churned customers also have a lower average credit score compared to non-churned customers. Moreover, the average estimated salary of churned customers is higher than that of non-churned customers.
+
+    In addition to these findings, the data visualization reveals that Germany is the country with the highest number of churned and non-churned customers. Similarly, males are the most dominant gender among churned and non-churned customers. Furthermore, the age group that significantly contributes to the churned and non-churned customer count is the mature age group. Additionally, the majority of churned and non-churned customers do not possess a credit card and are not active members.
+
+    The correlation analysis indicates that the relationship between numeric and categorical variables is very weak, while the Pearson Chi-square test suggests a high correlation between the "Age" and "Country" columns. On the other hand, the correlation analysis between numeric variables reveals a very weak correlation, indicating the absence of significant linear relationships between those variables.
   
