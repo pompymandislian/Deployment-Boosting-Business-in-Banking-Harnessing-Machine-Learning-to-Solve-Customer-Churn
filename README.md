@@ -29,12 +29,12 @@ How to solve the problem churn in the bank?
   
 </li><li> Preaperation Workflow 
 <p>
-<img align="center" src="Image/preaperation.png" width="300" height="50" />
+<img align="center" src="Image/preaperation.png" width="500" height="200" />
 </p>
   
 </li><li> Preprocessing/Feature Engineering Workflow 
 <p>
-<img align="center" src="Image/FE.png" width="300" height="50" />
+<img align="center" src="Image/FE.png" width="500" height="200" />
 </p>
 
 
