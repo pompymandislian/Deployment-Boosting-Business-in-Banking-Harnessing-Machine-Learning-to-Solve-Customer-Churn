@@ -49,11 +49,11 @@ How to solve the problem churn in the bank?
 
 </li><li> Streamlit Workflow 
 <p>
-<img align="center" src="Image/streamlit.png" width="500" height="200" />
+<img align="center" src="Image/streamlit.png" width="500" height="80" />
 </p>
   
 </li><li> FastApi Workflow 
 <p>
-<img align="center" src="Image/fastapi.png" width="500" height="200" />
+<img align="center" src="Image/fastapi.png" width="500" height="80" />
 </p>
   
