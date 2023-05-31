@@ -23,8 +23,9 @@ How to solve the problem churn in the bank?
 <h2> <b> ARCHITECTURE <b> </h2>
 
 </li><li> Main Workflow 
+  <p>
 <img align="center" src="Image/main.png" width="200" height="100" />
-  
+  </p>
 
 
 
