@@ -6,12 +6,20 @@ from sklearn.model_selection import train_test_split
 import pickle
 from SeparateOutputInput import SeparateOutputInput
 
-# import data
-data = joblib.load("D:/BOOTCAMP/project/Project Pribadi/ml churn/data.csv")
+# Import data
+data_url = "https://raw.githubusercontent.com/pompymandislian/learn_CI_CD/main/data.csv"
+response = requests.get(data_url)
 
-# import model
-with open("D:/BOOTCAMP/project/Project Pribadi/ml churn/model_svm.pkl", 'rb') as file:
-    model_svm = pickle.load(file)
+# Simpan response content ke dalam file sementara
+with tempfile.NamedTemporaryFile(delete=False) as tmp_file:
+    tmp_file.write(response.content)
+
+# Baca file sementara menggunakan pandas
+data = pd.read_csv(tmp_file.name, sep=';')
+
+# Hapus file sementara setelah selesai membacanya
+import os
+os.unlink(tmp_file.name)
 
 def test_start_end_columns():
     assert data.columns.any() == 'credit_score' # check start columns
